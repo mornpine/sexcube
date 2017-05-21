@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_publisher_id">a150c6dfa8d0d17</string>
+    <string name="app_name">Sex Cube</string>
+    <string name="rule_name">Sex Cube</string>
+    <string name="poza_name">Position</string>
+    <string name="netok">No Internet connection</string>
+    <string name="next">Next</string>
+    <string name="exit">Close</string>
+    <string name="rateus">Rate Sex Cube</string>
+    <string name="share">Share</string>
+    <string name="shareapp">Share app Sex Cube</string>
+    <string name="sharetext">I recommend interesting application Sex Cube (Kamasutra). Link - https://play.google.com/store/apps/details?id=com.pashkov.sexcubefull</string>
+    <string name="back">Menu</string>
+    <string name="how">How it works?</string>
+    <string name="install">Load in Google Play</string>
+    <string name="buy">ADT Off</string>
+    <string name="cube">Cube</string>
+    <string name="rule">Rules</string>
+    <string name="setpassword">Set password</string>
+    <string name="changepassword">Change password</string>
+    <string name="passonapp">Set password on app (Sex Cube)</string>
+    <string name="passonbuts">Settings and Secret with password</string>
+    <string name="changeicon">Change application icon</string>
+    <string name="changename">Change app name to Cube</string>
+    <string name="hidebuts">Invizible buttons Settings and Secret</string>
+    <string name="savesettings">Save settings</string>
+    <string name="ruleschange">Change text of the rules</string>
+
+    <string name="removeAds">Remove Ads</string>
+    <string name="Tapjoy_button">Earn Points</string>
+    <string name="Remove_ads">Remove Ads</string>
+    <string name="AdUnitId">ca-app-pub-6362815275432332/6828047413</string>
+    <string name="tapjoy_sdk_kKey">VAS81pWxR7KH3-XALg-9IgECRXESkM1EwAgWMlRdYYXzHJ2XAZCjUofk9Mre</string>
+
+    <string name="showrotbut">Hide rotate cube button</string>
+
+    <string name="apliedsettings">Settings applied</string>
+    <string name="clickcheckOk">This position will NOT random fall out during the rotation.</string>
+    <string name="clickcheckNo">This position will random fall out during the rotation.</string>
+
+
+    <string name="enterpass">Enter passsword</string>
+    <string name="badpass">Incorrect password</string>
+    <string name="newpass">Enter a new password</string>
+    <string name="repeatpass">Repeat password</string>
+    <string name="nopass">Passwords do not match, try again</string>
+    <string name="savepass">Password saved</string>
+
+    <string name="textcontsec3">Rotate the cube 3 seconds</string>
+    <string name="textcontsec2">Rotate the cube 2 seconds</string>
+    <string name="textcontsec1">Rotate the cube 1 second</string>
+    <string name="textcontsnov">Try again!</string>
+    <string name="textcontdone">Finish!</string>
+    <string name="pos_1">&lt;The Basket&gt; The man sits on the floor or on a firm mattress, with outstretched legs. The woman sits astride him. She is in control and can vary her movements to bring them both to a climax, while he is in an ideal position to kiss, suck and nibble her nipples.</string>
+    <string name="pos_0">&lt;The Plough&gt; The woman lies on her front and takes her weight on her forearms on the edge of the bed. Her partner lifts her legs and keeps them apart as he enters her from behind, controlling the movement while she remains still. If the man is tall, cushions may be needed to position the woman higher.</string>
+    <string name="pos_2">&lt;Straight Down to it&gt; The woman lies on her back with her legs open, while her partner lies between her legs and enters her. Both partners’ hands are free to touch and caress each other, and the woman can stroke her partners back and bottom. This is a very simple position for intimate lovemaking.</string>
+    <string name="pos_3">&lt;The Clip&gt; The man lies down with his legs outstretched and closed together. His partner sits astride him and leans back, using her arms for support. While she controls the movements, he can play with her clitoris. This is a simple position, which brings a great deal of pleasure to both partners.</string>
+    <string name="pos_4">&lt;69&gt; Benefits: Simultaneous oral pleasure. When shes on top in 69, she can control the intensity of oral stimulation on her clitoris by lifting or pressing her pelvis. From this position its easy to work her finger magic on your perineum, the sensitive area just below your testicles. Also try the man-on-top position.</string>
+    <string name="pos_5">&lt;The Column&gt; Both partners are standing, the woman in front with her back to her partner. He enters her from behind, while she arches her back. She can also lean forwards onto a wall or table to allow deeper penetration and make things a little easier.</string>
+    <string name="pos_6">&lt;Hopscotch&gt; The woman crouches, while the man enters her from a sitting position behind her. She controls the movement by rocking slowly on her heels, while the man kisses her back. This position requires a great deal of suppleness but allows the man to rediscover parts of the woman’s body which are often forgotten about.</string>
+    <string name="pos_7">&lt;The Chair&gt; The man sits on a chair with his partner on his lap, with her back to him. She uses the strength in her legs to make an up-and-down movement, while he caresses her clitoris and breasts. She may need to lean forward a little for easier penetration.</string>
+    <string name="pos_8">&lt;The Dog&gt; The woman is on all-fours, taking her weight on her forearms. The man kneels behind her and enters her while caressing her breasts and clitoris. This classic position will give both partners a great deal of pleasure since the deep penetration will not only stimulate the woman’s vaginal walls, but also her G spot, and the man will have a very exciting view of the action. The Dog will appeal to men who like to take the dominant role during Love. However, some women may feel demeaned by the submissive role, or it may cause pain, in which case there are plenty more positions to choose from!</string>
+    <string name="pos_9">&lt;The Norwegian Cross&gt; The woman lies on her back with one leg straight and the other bent at the knee. Her partner sits on the outstretched leg, with one knee under her thigh, maintaining his balance with one hand placed behind him. This position is particularly stimulating for the woman who can stroke both her partner’s and her own body while he thrusts.</string>
+    <string name="pos_10">&lt;The Ride&gt; The man lies on his back, with the woman kneeling astride him, facing his face. She controls the movements by pushing up and down. Both partners hands are free to touch and stroke each other. The woman can easily reach her clitoris and her partners testicles.</string>
+    <string name="pos_11">&lt;The Toad&gt; The man sits on the edge of the bed, with his feet on the ground and his back supported. His partner sits on him, with her back to him, her knees bent and her feet on the bed either side of him. She pushes with her hands and uses her thighs to move herself up and down. He can help her with the movements by lifting her up. The man can also caress her breasts and clitoris in this position, where penetration is very deep.</string>
+    <string name="pos_12">&lt;The Ship at Sea&gt; The man lies on his back, with his partner sitting on him, with her feet on the floor next to his body. She uses her thighs to move herself up and down and has her hands free to caress herself or her partner. Penetration in this position is very deep.</string>
+    <string name="pos_13">&lt;Lazy Boy&gt; The man lies back with his legs over the edge of the bed and his feet on the floor. His partner sits astride him, with her back to him, and controls the movement with her legs wide open so she can also play with his testicles and her own clitoris. For greater stimulation, she can take her weight on her knees, which will enable her to move more easily. This position offers the man a perfect view of the action and his partner’s body. With his free hands, he can caress her bottom.</string>
+    <string name="pos_14">&lt;Just Hanging&gt; The woman lies down and rests one leg on the shoulder of her partner, whos kneeling in front of her. He enters her, keeping himself steady with one hand on the ankle over his shoulder and the other on her knee. She has her hands free to play with her clitoris or her partners testicles. For variation, she can alternate legs.</string>
+
+    <string name="pos_16">&lt;Spanish Omelet&gt; The man is sitting, with his weight on his right arm and his legs outstretched. The woman sits astride him, with her back to him and leans forwards, supporting herself on her arms. While she controls the movement, his hands are free to caress her breasts and bottom.</string>
+    <string name="pos_17">&lt;The Elevator&gt; Benefits: Great for out-of-bedroom. She kneels in front of man, covering her teeth with her lips and encircling glans with her mouth. Woman then slowly pistons lips up and down on shaft, alternating speeds and occasionally stopping to move her tongue over and around head.</string>
+    <string name="pos_18">&lt;The Slide&gt; The woman lies on top of the man with her legs open to allow penetration. Once her partner is inside her, she then closes her legs tight and slides her body up and down against her partner’s body. This is a great way to stimulate her pubic bone and is perfect for women who like to be on top.</string>
+    <string name="pos_19">&lt;David Copperfield&gt; Some women find direct clitoral stimulation uncomfortable. Having her close her legs during oral Love may help. Place your hand above her public mound applying light pressure, then rub your firm tongue on the area around the clitoris to add indirect stimulation.</string>
+    <string name="pos_20">&lt;The Candle&gt; The woman lies on her back with her head on a cushion and her pelvis raised by another, thinner cushion on the edge of the bed. She rocks back and draws her knees into her chest so her partner, kneeling next to her, can enter her. His hands are free to stroke the backs of her thighs, which are highly erogenous zones.</string>
+    <string name="pos_21">&lt;The Spider&gt; The man sits with his legs out in front of him, leaning back on his hands, which are stretched out behind him. His partner sits astride him and rocks her pelvis, taking her weight on her arms and legs and bringing them both to a climax.</string>
+    <string name="pos_22">&lt;Balancing Act&gt; The man sits with his legs out in front of him, leaning back on his hands, which are stretched out behind him.  While the man takes control, the womans hands are free to caress his testicles and perineum.</string>
+    <string name="pos_15">&lt;The Fan&gt; The woman stands with her back to her partner. She bends her knees and rests them on the edge of a chair and crosses her arms on the back of the chair to support herself. The man enters her from behind and controls the movement, caressing her clitoris and breasts with his hands. Penetration will be deep, stimulating the front walls of the vagina and G spot.</string>
+
+    <string name="pos_23">&lt;Up for it&gt; The woman lies on her back with her knees drawn up to her chest. The man kneels next to her and enters her, supporting himself with one hand and using the other hand to hold the woman’s thighs. With her free hands, she can caress his testicles. Deep penetration makes this a very good position for conception.</string>
+    <string name="pos_24">&lt;The Star&gt; The woman lies on her back, with one leg outstretched and the other bent at the knee. The man enters her, putting one leg under her raised thigh and taking his weight on his legs. This is an easy and stimulating position, leaving the womans hand free to caress both her partner’s and her own body.</string>
+    <string name="pos_25">&lt;The Right Angle&gt; The woman lies on her back. Her partner enters her while caressing her breasts or clitoris. This position also works well without thrusting: if the woman grips hold of the man by crossing her ankles behind his back and he presses himself against her, the pressure will mount, giving both partners intense pleasure. This is a very stimulating position as he feels the contractions of her vagina and she feels every movement of his penis.</string>
+    <string name="pos_26">&lt;Back of You&gt; The woman lies on her back. Man sits astride him back to the girl and pressed to her feet.</string>
+
+    <string name="pos_27">&lt;69&gt; Benefits: Simultaneous oral pleasure. Shes can control the intensity of oral stimulation on her clitoris by lifting or pressing her pelvis. From this position its easy to work her finger magic on your perineum, the sensitive area just below your testicles. Also try the man-on-top position.</string>
+    <string name="pos_28">&lt;Standing for you&gt; Both partners are standing, the woman in front to her partner. She can be tilted back to a wall or table to allow deeper penetration and make things a little easier.</string>
+    <string name="pos_29">&lt;Standing behind him&gt; Both partners are standing, the woman in front with her back to her partner. He enters her from behind, while she arches her back. She can also lean forwards onto a wall or table to allow deeper penetration and make things a little easier.</string>
+    <string name="pos_30">&lt;Rider&gt; The woman is on all-fours, taking her weight on her forearms. The man kneels behind her and enters her while caressing her breasts and clitoris. This classic position will give both partners a great deal of pleasure since the deep penetration will not only stimulate the woman’s vaginal walls, but also her G spot, and the man will have a very exciting view of the action. This position will appeal to men who like to take the dominant role during Love. However, some women may feel demeaned by the submissive role, or it may cause pain, in which case there are plenty more positions to choose from!</string>
+    <string name="pos_31">&lt;Walk with a dog&gt; The woman is on all-fours, taking her weight on her forearms. The man kneels behind her and enters her while caressing her breasts and clitoris. This classic position will give both partners a great deal of pleasure since the deep penetration will not only stimulate the woman’s vaginal walls, but also her G spot, and the man will have a very exciting view of the action. The Dog will appeal to men who like to take the dominant role during Love. However, some women may feel demeaned by the submissive role, or it may cause pain, in which case there are plenty more positions to choose from!</string>
+    <string name="pos_32">&lt;Lazy Girl&gt; The man kneels up and leans back, taking his weight on his hands behind him. His partner lies back, with her head on a cushion and her back completely flat. She bends her knees either side of his hips in order to place the vagina at an optimal angle for penetration. She has her hands free to caress her breasts and clitoris during penetration. This highly erotic position offers deep penetration and enables the man to control the movement and watch his partners reactions, whilst she lies back and enjoys...</string>
+    <string name="pos_33">&lt;Just Hanging&gt; The woman lies down and rests legs on the shoulders of her partner, who’s kneeling in front of her. He enters her, keeping himself steady with one hand on the ankle over his shoulder and the other on her knee. She has her hands free to play with her clitoris or her partners testicles. For variation, she can alternate legs.</string>
+    <string name="pos_34">&lt;Gravid&gt; The man and woman lie down on their sides with the woman’s bottom against his pelvis. He enters her from behind and has his hands free to caress her and kiss her breasts. This gentle position is also suitable for women during the first five months of pregnancy.</string>
+    <string name="pos_35">&lt;Anjou-style&gt; The man and woman lie down on their sides with the woman’s bottom against his pelvis. He enters her from behind and has his hands free to caress her and kiss her breasts. This gentle position is also suitable for women during the first five months of pregnancy.</string>
+    <string name="pos_36">&lt;Мicrophone&gt; Benefits: Great for out-of-bedroom. She kneels in front of man, covering her teeth with her lips and encircling glans with her mouth. Woman then slowly pistons lips up and down on shaft, alternating speeds and occasionally stopping to move her tongue over and around head.</string>
+    <string name="pos_37">&lt;Closed for Business&gt; Some women find direct clitoral stimulation uncomfortable. Having her close her legs during Love may help. Place your hand above her public mound applying light pressure, then rub your firm tongue on the area around the clitoris to add indirect stimulation.</string>
+    <string name="pos_38">&lt;Spokesman&gt; Some women find direct clitoral stimulation uncomfortable. Having her close her legs during Love may help. Place your hand above her public mound applying light pressure, then rub your firm tongue on the area around the clitoris to add indirect stimulation.</string>
+    <string name="pos_39">&lt;Вugle&gt; Some women find direct clitoral stimulation uncomfortable. Having her close her legs during Love may help. Place your hand above her public mound applying light pressure, then rub your firm tongue on the area around the clitoris to add indirect stimulation.</string>
+    <string name="pos_40">&lt;On the knees&gt; The woman lies on her back with her head on a cushion and her pelvis raised by another, thinner cushion on the edge of the bed. She rocks back and draws her knees into her chest so her partner, kneeling next to her, can enter her. His hands are free to stroke the backs of her thighs, which are highly erogenous zones.</string>
+    <string name="pos_41">&lt;Mantis bug&gt; The man sits with his legs out in front of him, leaning back on his hands, which are stretched out behind him. His partner sits astride him and rocks her pelvis, taking her weight on her arms and legs and bringing them both to a climax.</string>
+    <string name="pos_42">&lt;Start with disabilities&gt; The woman stands with her back to her partner. She bends her knees and rests them on the edge of a chair and crosses her arms on the back of the chair to support herself. The man enters her from behind and controls the movement, caressing her clitoris and breasts with his hands. Penetration will be deep, stimulating the front walls of the vagina and G spot.</string>
+
+
+    <string name="pos_w1">The Basket</string>
+    <string name="pos_w0">The Plough</string>
+    <string name="pos_w2">Straight Down to it</string>
+    <string name="pos_w3">The Clip</string>
+    <string name="pos_w4">69</string>
+    <string name="pos_w5">The Column</string>
+    <string name="pos_w6">Hopscotch</string>
+    <string name="pos_w7">The Chair</string>
+    <string name="pos_w8">The Dog</string>
+    <string name="pos_w9">The Norwegian Cross</string>
+    <string name="pos_w10">The Ride</string>
+    <string name="pos_w11">The Toad</string>
+    <string name="pos_w12">The Ship at Sea</string>
+    <string name="pos_w13">Lazy Boy</string>
+    <string name="pos_w14">Just Hanging</string>
+
+    <string name="pos_w16">Spanish Omelet</string>
+    <string name="pos_w17">The Elevator</string>
+    <string name="pos_w18">The Slide</string>
+    <string name="pos_w19">David Copperfield </string>
+    <string name="pos_w20">The Candle</string>
+    <string name="pos_w21">The Spider</string>
+    <string name="pos_w22">Balancing Act</string>
+    <string name="pos_w15">The Fan</string>
+
+    <string name="pos_w23">Up for it</string>
+    <string name="pos_w24">The Star</string>
+    <string name="pos_w25">The Right Angle</string>
+    <string name="pos_w26">Back of You</string>
+
+    <string name="pos_w27">69</string>
+    <string name="pos_w28">Standing for you</string>
+    <string name="pos_w29">Standing behind him</string>
+    <string name="pos_w30">Rider</string>
+    <string name="pos_w31">Walk with a dog</string>
+    <string name="pos_w32">Lazy Girl</string>
+    <string name="pos_w33">Just Hanging</string>
+    <string name="pos_w34">Gravid</string>
+    <string name="pos_w35">Anjou-style</string>
+    <string name="pos_w36">Мicrophone</string>
+    <string name="pos_w37">Closed for Business</string>
+    <string name="pos_w38">Spokesman</string>
+    <string name="pos_w39">Вugle</string>
+    <string name="pos_w40">On the knees</string>
+    <string name="pos_w41">Mantis bug</string>
+    <string name="pos_w42">Start with disabilities</string>
+
+
+    <string name="singleTap">Double tap to select this position</string>
+    <string name="singleTapDone">Tap on the position you want to replace</string>
+
+    <color name="fon_color">#023b50</color>
+
+    <integer name="nom_im">0</integer>
+
+    <style name="ButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <string name="using">Using love cube application, provided that you are 18 years old. This fun app will help you to diversify sex life. Have a desire to try more positions for love - this kamasutra app for you. Random positions, which  drop out after the rotation kamasutra cube, introduces interesting gaming effect and allow to experiment in sexual life. For the dropping out position is necessary to continuously rotate the cube with your finger for 2 seconds, and follow the information messages at the top of the cube. Rate us please to motivate developers to create even more original applications for you. In Premium Cube also adds the ability to: select the list of positions for a random dropping out, secret choose positions for the sequential dropping out (and the ability to hide this option), which will saved even after you close the application Sex Cube, privat options - set a password on the Kamasutra Cube app, settings menu and secret buttom, change the app icon and its name to hide the Love Cube app on your device and something else.) Successful experiments in Love, friends!</string>
+    <string name="buytext">To activate all functions of the application Sex Cube need to upgrade to Premium status. You will be able to control dropping out the necessary positions, full access to the settings Sex Cube (ability to set password on app, change icon and app name, the opportunity to change rules of the cube etc).                            </string>
+</resources>

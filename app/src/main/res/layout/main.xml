@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#023b50">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutSexImg"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingTop="20sp">
+
+        <ImageView
+            android:id="@+id/imgSex"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/sexlog" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutSexCube"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/sextext"></ImageView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="vertical"
+        android:paddingTop="20sp">
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="35sp"
+            android:paddingRight="35sp"></ProgressBar>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/framepassApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/backpass">
+
+        <ImageView
+            android:id="@+id/imgPassApp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/password" />
+
+        <ImageView
+            android:id="@+id/imgCifa1App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cifrano" />
+
+        <ImageView
+            android:id="@+id/imgCifa2App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cifrano" />
+
+        <ImageView
+            android:id="@+id/imgCifa3App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cifrano" />
+
+        <ImageView
+            android:id="@+id/imgCifa4App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cifrano" />
+
+
+        <ImageButton
+            android:id="@+id/imgpass1App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass1" />
+
+        <ImageButton
+            android:id="@+id/imgpass2App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass2" />
+
+        <ImageButton
+            android:id="@+id/imgpass3App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass3" />
+
+        <ImageButton
+            android:id="@+id/imgpass4App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass4" />
+
+        <ImageButton
+            android:id="@+id/imgpass5App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass5" />
+
+        <ImageButton
+            android:id="@+id/imgpass6App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass6" />
+
+        <ImageButton
+            android:id="@+id/imgpass7App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass7" />
+
+        <ImageButton
+            android:id="@+id/imgpass8App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass8" />
+
+        <ImageButton
+            android:id="@+id/imgpass9App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass9" />
+
+        <ImageButton
+            android:id="@+id/imgpassExitApp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/exitpass" />
+
+        <ImageButton
+            android:id="@+id/imgpass0App"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/pass0" />
+
+        <ImageButton
+            android:id="@+id/imgpassClearApp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/clearpass" />
+
+    </FrameLayout>
+
+</FrameLayout>
